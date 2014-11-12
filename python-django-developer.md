@@ -24,4 +24,4 @@ We’re now looking for a __full time Python / Django Developer__ (freelance) to
 
 ### Sounds good to you? Contact us!
 
-If you’re interested, please [mailto:lena.reinhard@ehealthnigeria.org]contact us). __We’re looking forward to hearing from you!__
+If you’re interested, please contact us: lena.reinhard@ehealthnigeria.org. __We’re looking forward to hearing from you!__
