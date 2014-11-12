@@ -19,7 +19,8 @@ Now we’re looking for a __full time Frontend Developer__ (freelance) to join u
 
 ### Your tasks
 
-- Developing consoles and dashboards for the teams in the affected countries.
+- Developing consoles and dashboards for the teams in the affected countries
+- Working on existing products and developing new features
 
 ### Sounds good to you? Contact us!
 
