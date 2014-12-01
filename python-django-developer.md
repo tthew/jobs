@@ -25,3 +25,6 @@ We’re now looking for a __full time Python / Django Developer__ (freelance) to
 ### Sounds good to you? Contact us!
 
 If you’re interested, please contact us: lena.reinhard@ehealthnigeria.org. __We’re looking forward to hearing from you!__
+
+
+Update, December 1: the offers are still open, don't hesitate to get in touch!
