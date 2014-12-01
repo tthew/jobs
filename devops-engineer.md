@@ -24,3 +24,5 @@ We’re now looking for a __full time DevOps Engineer__ (freelance) to join us, 
 ### Sounds good to you? Contact us!
 
 If you’re interested, please contact us: lena.reinhard@ehealthnigeria.org. __We’re looking forward to hearing from you!__
+
+_Update, December 1: the offers are still open, don't hesitate to get in touch!_
