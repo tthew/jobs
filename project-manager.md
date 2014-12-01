@@ -18,11 +18,11 @@ We’re now looking for a __Project Manager__ (freelance, full time) to join us,
 
 ### Your tasks
 
-- plan development tasks
-- allocate resources
-- estimate features
-- monitor software development
-- help design, develop, test and rollout products and product features for the eHealth Africa software system
+- Plan development tasks
+- Allocate resources
+- Estimate features
+- Monitor software development
+- Help design, develop, test and rollout products and product features for the eHealth Africa software system
 
 ### Sounds good to you? Contact us!
 
