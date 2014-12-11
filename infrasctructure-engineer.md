@@ -7,7 +7,7 @@ We’re now looking for a __full time Infrastructure Engineer__ (freelance) to j
 ### Your skills & experience
 
 - Excellent database and operations skills
-- At least 2 years of experience in Linux / UNIX systems administration, network administration or infrasctucture management
+- At least 2 years of experience in Linux / UNIX systems administration, network administration or infrastructure management
 - Good understanding of git
 - Familiarity with Apache CouchDB, …
 - Familiarity with Nginx, Python, Django, fabric or SaltStack
