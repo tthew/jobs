@@ -10,7 +10,7 @@ We’re now looking for a __full time Infrastructure Engineer__ (freelance) to j
 - At least 2 years of experience in Linux / UNIX systems administration, network administration or infrastructure management
 - Good understanding of git
 - Familiarity with Apache CouchDB, …
-- Familiarity with Nginx, Python, Django, fabric or SaltStack
+- Familiarity with Nginx, Python, Django, fabric 
 - Excellent communication skills and self-initiative
 - Language Skills: fluent English is a must, German, Spanish and French are nice-to-haves
 - Location: Berlin
