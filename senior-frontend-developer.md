@@ -15,7 +15,7 @@ We’re now looking for a __full time Frontend Developer__ (freelance) to join u
 - Good understanding of GIT
 - Excellent communication skills and self-initiative
 - Language Skills: fluent English is a must, French is a nice-to-have
-- Location: Berlin
+- Location: Berlin (required)
 
 ### Your tasks
 
