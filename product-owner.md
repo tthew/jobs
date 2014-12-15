@@ -27,6 +27,6 @@ We’re now looking for a __Product Owner__ (freelance, in full time) to join us
 
 ### Sounds good to you? Contact us!
 
-If you’re interested, please contact us: lena.reinhard@ehealthnigeria.org. 
+If you’re interested, please contact us with a few short lines about yourself (please keep them really short) and your CV: lena.reinhard@ehealthnigeria.org.
 
 __We’re looking forward to hearing from you!__
