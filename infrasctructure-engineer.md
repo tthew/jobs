@@ -13,7 +13,7 @@ We’re now looking for a __full time Infrastructure Engineer__ (freelance) to j
 - Familiarity with Nginx, Python, Django, fabric 
 - Excellent communication skills and self-initiative
 - Language Skills: fluent English is a must, German, Spanish and French are nice-to-haves
-- Location: Berlin
+- Location: Berlin (required)
 
 ### Your tasks
 
