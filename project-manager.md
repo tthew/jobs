@@ -14,7 +14,7 @@ We’re now looking for a __Project Manager__ (freelance, full time) to join us,
 - Experience with standard Project Management tools
 - Willingness and ability to travel to our Nigeria office for a few weeks and work with our colleagues there
 - Language Skills: fluent English is a must, German, Spanish and French are nice-to-haves
-- Location: Berlin 
+- Location: Berlin (required)
 
 ### Your tasks
 
