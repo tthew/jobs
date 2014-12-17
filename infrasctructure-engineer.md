@@ -1,6 +1,6 @@
-## Help fight Ebola by writing awesome code!
+## Help fight ebola and strengthen health systems with awesome tech infrastructure!
 
-We’re an American-Nigerian NGO specialised on the development of software. Currently our main task is to develop a tool set to tackle the Ebola outbreak in West Africa. Our diverse Team of 20 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea. 
+We’re an American-Nigerian NGO specialised on the development and deployment of tech for health. Currently one of our main focuses is the development of tools to tackle the ebola outbreak and support health in West Africa and Nigeria. Our international tech team of 20 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
 
 We’re now looking for a __full time Infrastructure Engineer__ (freelance) to join us, starting as soon as possible.
 
