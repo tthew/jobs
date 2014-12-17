@@ -1,10 +1,10 @@
 # Project Manager
 
-## Help fight Ebola by helping us write awesome code!
+## Help us create software products to fight ebola and strengthen health systems!
 
-We’re an NGO specialised on the development of software. Currently our main task is to develop a tool set to tackle the Ebola outbreak in West Africa. Our diverse Team of 20 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
+We’re an American-Nigerian NGO specialised on the development and deployment of tech for health. Currently one of our main focuses is the development of tools to tackle the ebola outbreak and support health in West Africa and Nigeria. Our international tech team of 20 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
 
-We’re now looking for a __Project Manager__ (freelance, full time) to join us, starting as soon as possible.
+We’re now looking for a __Project Manager__ (freelance, minimum 6 months, full time) to join us and help work on __nutrition and health system support tools__, starting as soon as possible.
 
 ### Your skills & experience
 
