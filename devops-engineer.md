@@ -2,7 +2,7 @@
 
 We’re an American-Nigerian NGO specialised on the development and deployment of tech for health. Currently one of our main focuses is the development of tools to tackle the ebola outbreak and support health in West Africa and Nigeria. Our international tech team of 20 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
 
-We’re now looking for a __full time Infrastructure Engineer__ (freelance) to join us, starting as soon as possible.
+We’re now looking for a __full time Infrastructure Engineer__ (freelance) to join us in Berlin, with possible postings to Nigeria, starting as soon as possible.
 
 ### Your skills & experience
 
@@ -13,7 +13,7 @@ We’re now looking for a __full time Infrastructure Engineer__ (freelance) to j
 - Familiarity with Nginx, Python, Django, fabric
 - Excellent communication skills and self-initiative
 - Language Skills: fluent English is a must, German, Spanish and French are nice-to-haves
-- Location: Berlin (required)
+- Location: Berlin (required), ability to travel (would be great)
 
 ### Your tasks
 
