@@ -8,11 +8,11 @@ We’re currently looking for a __Product Owner__ (6 months, freelance full time
 
 ### Your skills & experience
 
-- Experience working in product design and development
+- Experience working in product design and development __OR__  information design
 - Strong technical skills - software development experience a massive plus
-- Experience working in developing, rural and low-literacy contexts
+- Experience working in developing, rural or low-literacy contexts
 - Superb communication skills and personal initiative
-- Willingness and ability to travel to areas where our products are used (currently Guinea, Sierra Leone, Liberia, Nigeria) and work with diverse stakeholders
+- Willingness and ability to take trips to areas where our products are used (currently Guinea, Sierra Leone, Liberia, Nigeria) and work with diverse stakeholders
 - Language Skills: fluent English is a must, German, Spanish and French are nice-to-haves
 - Location: Berlin (/Kano/Monrovia/Freetown/Conakry)
 
