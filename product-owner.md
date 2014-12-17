@@ -4,11 +4,11 @@
 
 We’re an American-Nigerian NGO specialised on the development and deployment of tech for health. Currently one of our main focuses is the development of tools to tackle the ebola outbreak and support health in West Africa and Nigeria. Our international tech team of 20 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
 
-We’re currently looking for a __Product Owner__ (6 months, freelance full time contract) to join us, starting as soon as possible.
+We’re currently looking for a __Product Owner__ (6 months, freelance, full time contract) to join us, starting as soon as possible.
 
 ### Your skills & experience
 
-- Experience working in product design and development __OR__  information design
+- Experience working in product design and development, user-centered design
 - Strong technical skills - software development experience a massive plus
 - Experience working in developing, rural or low-literacy contexts
 - Superb communication skills and personal initiative
