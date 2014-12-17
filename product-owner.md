@@ -4,7 +4,7 @@
 
 We’re an American-Nigerian NGO specialised on the development and deployment of tech for health. Currently one of our main focuses is the development of tools to tackle the ebola outbreak and support health in West Africa and Nigeria. Our international tech team of 20 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
 
-We’re currently looking for a __Product Owner__ (6 months, freelance, full time contract) to join us, starting as soon as possible.
+We’re currently looking for a __Product Owner__ (6 months, freelance, full time contract) to join us and work on __outbreak response, nutrition and health system strengthening__ products, starting as soon as possible.
 
 ### Your skills & experience
 
