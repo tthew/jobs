@@ -21,7 +21,7 @@ We’re currently looking for a __Product Owner__ (6 months, freelance, full tim
 
 - Develop the vision for products which support our software strategy for health system support and communicate this to the software team and stakeholders
 - Gather feature / product requirements from stakeholder input and define and prioritize these for the development team
-- Coordinate with local partners, governments and users to ensure the effectively satisfy their needs throughout development
+- Coordinate with local partners, governments and users to ensure products effectively satisfy their needs throughout development
 - Ensure that what is being built represents great product design practices, is relevent, effective and focused
 - Throughout the product lifecycle, spend a significant amount of time on site – for collecting the first requests, getting feedback and rolling out the product
 
