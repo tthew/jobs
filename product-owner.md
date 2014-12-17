@@ -1,28 +1,27 @@
 # Product Owner
 
-## Help fight Ebola by improving our products!
+## Create software products to fight ebola and strengthen health systems
 
-We’re an American-Nigerian NGO specialised on the development of software. Currently our main task is to develop a tool set to tackle the Ebola outbreak in West Africa. Our diverse Team of 20 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
+We’re an American-Nigerian NGO specialised on the development and deployment of tech for health. Currently one of our main focuses is the development of tools to tackle the ebola outbreak and support health in West Africa and Nigeria. Our international tech team of 20 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
 
-We’re now looking for a __Product Owner__ (freelance, in full time) to join us, starting as soon as possible.
+We’re currently looking for a __Product Owner__ (6 months, freelance full time contract) to join us, starting as soon as possible.
 
 ### Your skills & experience
 
-- Great savviness of the Health Care sector
-- Good technical understanding
-- Excellent Communication Skills and self-initiative
-- Willingness and ability to travel to the sites where our products are used (currently Guinea, Sierra Leone, Liberia, Nigeria) work with our colleagues there
+- Experience working in product design and development
+- Strong technical skills - software development experience a massive plus
+- Experience working in developing, rural and low-literacy contexts
+- Superb communication skills and personal initiative
+- Willingness and ability to travel to areas where our products are used (currently Guinea, Sierra Leone, Liberia, Nigeria) and work with diverse stakeholders
 - Language Skills: fluent English is a must, German, Spanish and French are nice-to-haves
-- Location: Berlin
+- Location: Berlin (/Kano/Monrovia/Freetown/Conakry)
 
 ### Your tasks
 
-- In collaboration with our department head and our products’ stakeholders, develop a vision for our products, and convey it to the team
-- Get feature / product requests from stakeholders
-- Gather and add information about the requests
-- Write user stories
-- Stay approachable for the stakeholders and developers throughout the product lifecycle 
-- Work closely with our Project Managers and Department Head
+- Develop the vision for products which support our software strategy for health system support and communicate this to the software team and stakeholders
+- Gather feature / product requirements from stakeholder input and define and prioritize these for the development team
+- Coordinate with local partners, governments and users to ensure the effectively satisfy their needs throughout development
+- Ensure that what is being built represents great product design practices, is relevent, effective and focused
 - Throughout the product lifecycle, spend a significant amount of time on site – for collecting the first requests, getting feedback and rolling out the product
 
 ### Sounds good to you? Contact us!
