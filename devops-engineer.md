@@ -22,6 +22,7 @@ We’re now looking for a __full time devops / deployment engineer__ (freelance,
 - troubleshoot locally and coordinate remote support for deployed applications
 - configure and support infrastructure for deployed systems
 - plan, execute and be responsible for internal projects related to the infrastructure
+- install and debug the existing applications
 
 ### Sounds good to you? Contact us!
 
