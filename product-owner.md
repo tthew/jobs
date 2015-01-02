@@ -15,10 +15,11 @@ We’re currently looking for a __Product Owner__ (6 months, freelance, full tim
 - Superb communication skills and personal initiative
 - Willingness and ability to take trips to areas where our products are used (currently Guinea, Sierra Leone, Liberia, Nigeria) and work with diverse stakeholders
 - Language Skills: fluent English is a must, German, Spanish and French are nice-to-haves
-- Location: Berlin (/Kano/Monrovia/Freetown/Conakry)
+- Location: Berlin (/Somalia/Nigeria)
 
 ### Your tasks
 
+- Work on nutrition dashboards that will help identify starvation issues.
 - Develop the vision for products which support our software strategy for health system support and communicate this to the software team and stakeholders
 - Gather feature / product requirements from stakeholder input and define and prioritize these for the development team
 - Coordinate with local partners, governments and users to ensure products effectively satisfy their needs throughout development
